@@ -13,9 +13,9 @@
 <!-- Social Badges -->
 <p align="center">
   <a href="https://linkedin.com/in/seywanjahani"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/alexmorgan_dev"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://twitter.com/."><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
   <a href="https://seywanjahani.dev"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
-  <a href="mailto:seywanjahani@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:seyvanjahani@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://discord.gg/none"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
 </p>
 
@@ -80,5 +80,5 @@ public class GameDeveloper : Human, IDeveloper
 <!-- <p align="center"> <a href="https://open.spotify.com/user/alexmorgan"> <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=alexmorgan&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=true&bar_color=6e57f7&bar_color_cover=true"/> </a> </p>
 
 <!--Lets Connect and Cpllaborate-->
-<p align="center"> <i>"The best games are created when passionate developers come together."</i> </p><p align="center"> <a href="https://calendly.com/alexmorgan/game-dev-chat"> <img src="https://img.shields.io/badge/📅%20Schedule%20a%20Chat-6E57F7?style=for-the-badge"/> </a> <a href="https://ko-fi.com/alexmorgan"> <img src="https://img.shields.io/badge/☕%20Buy%20Me%20a%20Coffee-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white"/> </a> <a href="https://patreon.com/alexmorgan"> <img src="https://img.shields.io/badge/🎮%20Support%20on%20Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white"/> </a> </p><p align="center"> 💼 <b>Open for:</b> Game Dev Collaborations • VR Projects • Consulting • Speaking Engagements </p><p align="center"> 📧 <b>Email:</b> alex.morgan@email.com | 🌐 <b>Portfolio:</b> <a href="https://alexmorgan.dev">alexmorgan.dev</a> </p>
+<p align="center"> <i>"The best games are created when passionate developers come together."</i> </p><p align="center"> <a href="https://calendly.com/alexmorgan/game-dev-chat"> <img src="https://img.shields.io/badge/📅%20Schedule%20a%20Chat-6E57F7?style=for-the-badge"/> </a> <a href="https://ko-fi.com/alexmorgan"> <img src="https://img.shields.io/badge/☕%20Buy%20Me%20a%20Coffee-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white"/> </a> <a href="https://patreon.com/alexmorgan"> <img src="https://img.shields.io/badge/🎮%20Support%20on%20Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white"/> </a> </p><p align="center"> 💼 <b>Open for:</b> Game Dev Collaborations • VR Projects • Consulting • Speaking Engagements </p><p align="center"> 📧 <b>Email:</b> seyvanjahani@gmail.com | 🌐 <b>Portfolio:</b> <a href="https://seywanjahani.dev">seywanjahani.dev</a> </p>
 <!-- Footer --><div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/> </div><p align="center"> <img src="https://img.shields.io/badge/Made%20with-❤️%20and%20☕-6E57F7?style=flat-square"/> <img src="https://img.shields.io/badge/Powered%20by-GitHub-181717?style=flat-square&logo=github"/> </p> ```
