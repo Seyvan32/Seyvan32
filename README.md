@@ -48,7 +48,7 @@ public class GameDeveloper : Human, IDeveloper
     {
         ["Languages"] = new[] { "C#", "C++", "TypeScript", "Python" },
         ["Engines"] = new[] { "Unity", "Unreal Engine 5", "CocosCreator" },
-        ["VR/AR"] = new[] { "Meta Quest", "SteamVR", "WebGL", "ARCore" },
+        ["VR/AR"] = new[] { "Meta Quest", "WebGL" },
         ["Specializations"] = new[] { "Physics Systems", "AI", "Multiplayer" }
     };
     
