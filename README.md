@@ -71,15 +71,6 @@ public class GameDeveloper : Human, IDeveloper
 <p align="center"> <img src="https://img.shields.io/badge/🏅%20Unity%20Certified%20Developer-Expert-black?style=for-the-badge"/> <img src="https://img.shields.io/badge/🎮%20Unreal%20Authorized%20Instructor-blue?style=for-the-badge"/> <img src="https://img.shields.io/badge/🥽%20Meta%20VR%20Developer-1C1E20?style=for-the-badge"/> </p><p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=alexmorgan&theme=discord&no-frame=true&column=7&margin-w=15&margin-h=15"/> </p>
 
 
-<!--START_SECTION:waka-->
-C#              18 hrs 42 mins  ████████████░░░░░░░░░░░░░   48.32 %
-C++             10 hrs 15 mins  ██████░░░░░░░░░░░░░░░░░░░   26.47 %
-HLSL/Shaders    4 hrs 30 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.63 %
-Blueprints      2 hrs 45 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.10 %
-Python          1 hr 20 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 %
-Other           1 hr 10 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 %
-<!--END_SECTION:waka-->
-
 <!--Contribution Snake-->
 <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alexmorgan/alexmorgan/output/github-contribution-grid-snake-dark.svg"> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alexmorgan/alexmorgan/output/github-contribution-grid-snake.svg"> <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/alexmorgan/alexmorgan/output/github-contribution-grid-snake.svg"> </picture>
 
