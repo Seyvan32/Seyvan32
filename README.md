@@ -1,12 +1,12 @@
 <!-- Header Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Alex%20Morgan&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Game%20Developer%20|%20VR%20Enthusiast%20|%20Code%20Architect&descAlignY=52&descSize=18"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Seywan%20Jahani&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Game%20Developer%20|%20VR%20Enthusiast%20|%20Code%20Architect&descAlignY=52&descSize=18"/>
 </div>
 
 <!-- Typing SVG -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E57F7&center=true&vCenter=true&random=false&width=524&lines=7%2B+Years+of+Game+Development+Experience;Unreal+Engine+%26+Unity+Specialist;Building+Immersive+VR+Experiences;Passionate+About+Interactive+Worlds" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E57F7&center=true&vCenter=true&random=false&width=524&lines=3.5%2B+Years+of+Game+Development+Experience;Unreal+Engine+%26+Unity+Specialist;Building+Immersive+VR+Experiences;Passionate+About+Interactive+Worlds" alt="Typing SVG" />
   </a>
 </p>
 
@@ -21,8 +21,8 @@
 
 <!-- Profile Views Counter -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=alexmorgan&style=for-the-badge&color=6E57F7"/>
-  <img src="https://img.shields.io/github/followers/alexmorgan?style=for-the-badge&color=6E57F7&labelColor=1a1a2e"/>
+  <img src="https://komarev.com/ghpvc/?username=seywanjahani&style=for-the-badge&color=6E57F7"/>
+  <img src="https://img.shields.io/github/followers/seywanjahani?style=for-the-badge&color=6E57F7&labelColor=1a1a2e"/>
 </p>
 
 ---
@@ -32,15 +32,14 @@
 ```csharp
 public class GameDeveloper : Human, IDeveloper
 {
-    public string Name { get; } = "Alex Morgan";
-    public string Location { get; } = "San Francisco, CA";
-    public int YearsOfExperience { get; } = 7;
+    public string Name { get; } = "Seywan Jahani";
+    public string Location { get; } = "Mashhad, IR";
+    public int YearsOfExperience { get; } = 3.5;
     
     public string[] Roles { get; } = new string[]
     {
-        "Senior Game Developer",
-        "VR/AR Specialist",
-        "Technical Lead"
+        "Mid-Level Game Developer",
+        "VR Specialist"
     };
     
     public string CurrentFocus { get; } = "Building next-gen VR experiences";
