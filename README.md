@@ -49,7 +49,7 @@ public class GameDeveloper : Human, IDeveloper
         ["Languages"] = new[] { "C#", "C++", "TypeScript", "Python" },
         ["Engines"] = new[] { "Unity", "Unreal Engine 5", "CocosCreator" },
         ["VR/AR"] = new[] { "Meta Quest", "WebGL" },
-        ["Specializations"] = new[] { "Physics Systems", "AI", "Multiplayer" }
+        ["Specializations"] = new[] { "Gameplay Mechanics Systems", "Multiplayer", "Game Patterns" }
     };
     
     public void GetMotivation() => Console.WriteLine("Creating worlds people escape into! 🚀");
