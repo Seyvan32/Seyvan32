@@ -34,7 +34,7 @@ public class GameDeveloper : Human, IDeveloper
 {
     public string Name { get; } = "Seywan Jahani";
     public string Location { get; } = "Mashhad, IR";
-    public int YearsOfExperience { get; } = 3.5;
+    public int YearsOfExperience { get; } = 4;
     
     public string[] Roles { get; } = new string[]
     {
